@@ -1,7 +1,6 @@
 a) hey ducks!
 I am learning C# since 2021 Summer.
 You can find me in Discord: WhitteGoose#8717
-Or Telegram: @whittegoose
 
 That's all i think. See you, duck.
 
