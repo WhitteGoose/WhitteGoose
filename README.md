@@ -1,9 +1,10 @@
-  hey ducks, i am WhitteGoose
+  hey ducks, i am WhitteGoose :)
 - I’m interested in programming, editing video.
 - I’m currently learning C#.
-- I’m looking to collaborate on @daZate :)
 - You can find me on Discord: WhitteGoose#8717
-
+ 
+ 
+a) hey)
 <!---
 WhitteGoose/WhitteGoose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
