@@ -1,4 +1,4 @@
-  Hi, i am WhitteGoose.
+  hey ducks, i am WhitteGoose
 - I’m interested in programming, editing video.
 - I’m currently learning C#.
 - I’m looking to collaborate on @daZate :)
