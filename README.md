@@ -1,8 +1,6 @@
-   \t hey.
-- I’m interested in programming, editing video.  
+  hey.
 - I’m currently learning C#.  
 - You can find me on Discord: WhitteGoose#8717  
-  
   
   
   
