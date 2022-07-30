@@ -1,6 +1,6 @@
    ## hey. ##
 - I’m currently learning C#.  
-- You can find me on Discord: WhitteGoose#8717  
+- You can find me on Discord: Gooseling#8717  
   
   
   
